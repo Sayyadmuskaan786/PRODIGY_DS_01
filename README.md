@@ -1,2 +1,2 @@
-# Prodigy_intern
+# Prodigy_DS_01
 Internships tasks of Prodigy Infotech
